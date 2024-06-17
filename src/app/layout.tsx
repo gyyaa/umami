@@ -33,7 +33,7 @@ export default function ({ children }) {
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Umami',
-    default: 'Umami',
+    template: '%s | 网站访问统计',
+    default: '网站访问统计',
   },
 };
